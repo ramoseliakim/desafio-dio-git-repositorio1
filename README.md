@@ -1,2 +1,2 @@
 # desafio-dio-git-repositorio1
-Desafio de git/github criando um repositório
+Desafio da DIO de git/github criando um repositório
