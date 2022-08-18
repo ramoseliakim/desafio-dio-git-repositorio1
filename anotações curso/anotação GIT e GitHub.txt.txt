@@ -1,0 +1,2 @@
+Git trabalhamos na máquina podendo enviar para o servidor as atualizações.
+GitHub trabalhamos no servidor tanto no navegador quanto no desktop (app GitHub Desktop).
